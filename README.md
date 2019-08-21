@@ -1,7 +1,7 @@
 # Compilers
 Sample LEX and YACC codes.
  
-note:Codes are named as per the numbers given below in the corresponding folder
+note:Codes are named as per the numbers given below in the corresponding folder.
 
 ## LEX Problems
 1. LEX program to do the following. Given an input English sentence, 
